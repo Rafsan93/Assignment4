@@ -109,7 +109,7 @@
 			<text text-anchor="middle" transform="translate(-107,54)rotate(-59.99999999999999)" style="font-size: 10px; font-family: &quot;Armadura Family&quot;; fill: rgb(140, 162, 82);">Outro</text></g></svg>
 	    
 		<center>
-         <p style="font-size:35px;color:black;font-family:arial;"> <b>This Is A Sample Webpage Created for CISC 3130 - Data Structure Class</b></p>			  
+         <p style="font-size:35px;color:black;font-family:arial;"> <b>This Is A Simple Webpage Created for CISC 3130 - Data Structure Class</b></p>			  
 	    </center>
 		
 	   <div style="text-align:center;padding:1em 0;"> <h3><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/en/city/5128581"><br />New York City Time</a></h3> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=medium&timezone=America%2FNew_York" width="100%" height="115" frameborder="0" seamless></iframe> </div>
