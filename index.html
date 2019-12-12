@@ -355,7 +355,7 @@
 			 <p style="font-size:20px;color:grey">CISC 3130 - Data Structure</p>
 			 <p style="font-size:20px;color:grey">Section MY9</p>
 			 <p style="font-size:20px;color:grey">Fall 2019</p>
-			 <p style="font-size:20px;color:grey">Created At 12/12/2019</p>
+			 <p style="font-size:20px;color:grey">Created At 12/11/2019</p>
 			 <a href="https://github.com/Rafsan93">Github Account Link</a>
 		   </center>
 	</center>
