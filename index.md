@@ -13,6 +13,65 @@
 <head>
      <title>STARMAM</title>
 </head>
+<!--------code for welcome massage start here----->
+<style>
+   .example1 
+      {
+       height: 50px;	
+       overflow: hidden;
+       position: relative;
+      }
+   .example1 h3 
+      {
+       font-size: 3em;
+       color: grey;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       margin: 0;
+       line-height: 50px;
+       text-align: center;
+       
+       -moz-transform:translateX(100%);
+       -webkit-transform:translateX(100%);	
+       transform:translateX(100%);
+ 
+       -moz-animation: example1 15s linear infinite;
+       -webkit-animation: example1 15s linear infinite;
+       animation: example1 15s linear infinite;
+      }
+
+   @-moz-keyframes example1 
+	  {
+        0%   { -moz-transform: translateX(100%); }
+       100% { -moz-transform: translateX(-100%); }
+      }
+   @-webkit-keyframes example1 
+      {
+        0%   { -webkit-transform: translateX(100%); }
+       100% { -webkit-transform: translateX(-100%); }
+      }
+  @keyframes example1 
+      {
+       0%   
+      { 
+   -moz-transform: translateX(100%); 
+   -webkit-transform: translateX(100%); 
+    transform: translateX(100%); 		
+    }
+      100% 
+	{ 
+     -moz-transform: translateX(-100%); 
+     -webkit-transform: translateX(-100%); 
+     transform: translateX(-100%); 
+    }
+}
+</style>
+	
+   <div class="example1">
+       <h3>WELCOME TO MY WEBPAGE </h3>
+   </div>
+<!---------------------------------ebd this part of code----->
 <center>
    <h1 style="font-size:40px;color:gold;">STARMAN</h1>
       <p style="font-size:40px;color:gold;">By David Bowie</p>
