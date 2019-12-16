@@ -74,8 +74,8 @@
    </div>
 <!---------------------------------ebd this part of code----->
 <center>
-   <h1 style="font-size:40px;color:gold;">STARMAN</h1>
-      <p style="font-size:40px;color:gold;">By David Bowie</p>
+   <h1 style="font-size:40px;color:black;">STARMAN</h1>
+      <p style="font-size:40px;color:black;">By David Bowie</p>
 	      
        <center>
          <svg width="960" height="960" version="0.0" xmlns=" ">
