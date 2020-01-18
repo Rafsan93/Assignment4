@@ -11,7 +11,7 @@
 <html> 
     <body style="background: url('bg3.jpg')">
 <head>
-     <title>STARMAM</title>
+     <title>STARMAN</title>
 	<a href="indexDark.html"><button>DARK MODE</button></a> <!---DARK MODE---> 
 </head>
 <!--------code for welcome massage start here----->
